@@ -136,25 +136,25 @@ Place your screenshots in the `screenshots` folder. The image names below should
 
 URL: `http://localhost:3000/`
 
-![Home route response](screenshots/home.png)
+![Screenshot](./Screenshot%202026-10-31%20144625.png)
 
 ### About route
 
 URL: `http://localhost:3000/about`
 
-![About route response](screenshots/about.png)
+![Screenshot](./Screenshot%202026-10-31%20144635.png)
 
 ### Time route
 
 URL: `http://localhost:3000/time`
 
-![Time route response](screenshots/time.png)
+![Screenshot](./Screenshot%202026-10-31%20144648.png)
 
 ### Unknown route
 
 URL: `http://localhost:3000/anything`
 
-![404 not found response](screenshots/not-found.png)
+![Screenshot](./Screenshot%202026-10-31%20144659.png)
 
 ## How I Checked the Status Codes
 
