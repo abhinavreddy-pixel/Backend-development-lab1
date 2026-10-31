@@ -13,7 +13,7 @@ https://backend-development-lab1-eight.vercel.app/
 
 If you have not deployed the project yet, write:
 
-> Not deployed yet. The server runs locally at `http://localhost:3000`.
+.
 
 ## Objective
 
