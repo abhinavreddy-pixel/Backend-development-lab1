@@ -132,29 +132,30 @@ Open the endpoints below in your browser. Stop the server with **Ctrl+C** when y
 
 Place your screenshots in the `screenshots` folder. The image names below should match the names of your actual screenshot files.
 
+
 ### Home route
 
 URL: `http://localhost:3000/`
 
-![Screenshot](./Screenshot%202026-10-31%20144625.png)
+![Home route](Screenshots/Home%20route.png)
 
 ### About route
 
 URL: `http://localhost:3000/about`
 
-![Screenshot](./Screenshot%202026-10-31%20144635.png)
+![About route](Screenshots/About%20route.png)
 
 ### Time route
 
 URL: `http://localhost:3000/time`
 
-![Screenshot](./Screenshot%202026-10-31%20144648.png)
+![Time route](Screenshots/Time%20route.png)
 
 ### Unknown route
 
 URL: `http://localhost:3000/anything`
 
-![Screenshot](./Screenshot%202026-10-31%20144659.png)
+![Unknown route](Screenshots/Unknown%20route.png)
 
 ## How I Checked the Status Codes
 
