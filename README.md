@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- **Name:** [Your full name]
-- **Registration Number:** [Your registration number]
-- **Section:** [Your section]
+- **Name:** ABHINAV REDDY
+- **Registration Number:** 252U1R9173
+- **Section:** CSE GEN-AI 2C
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
 
