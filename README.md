@@ -9,8 +9,7 @@
 - **Lab Number:** 01
 
 ## Live Link
-
-[Add your deployed URL here]
+https://backend-development-lab1-eight.vercel.app/
 
 If you have not deployed the project yet, write:
 
